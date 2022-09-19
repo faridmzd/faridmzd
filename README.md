@@ -1,4 +1,4 @@
-![Header](./github-header-image.png|width=100)
+![Header](./github-header-image (1).png)
 
 - 📝 I regularly write articles on [https://medium.com/@farid_mzd](https://medium.com/@farid_mzd)
 
