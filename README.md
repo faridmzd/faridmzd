@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Farid</h1>
-<h3 align="center">A software developer from Azerbaijan.</h3>
+![Header](./github-header-image.png)
 
 - 📝 I regularly write articles on [https://medium.com/@farid_mzd](https://medium.com/@farid_mzd)
 
