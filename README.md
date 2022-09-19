@@ -26,8 +26,8 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=feridmzd&show_icons=true&count_private=true)  
 
-![Profile views](https://gpvc.arturio.dev/feridmzd)  
-
 ![GitHub metrics](https://metrics.lecoq.io/feridmzd)  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=feridmzd)  
+
+![Profile views](https://gpvc.arturio.dev/feridmzd)  
