@@ -6,7 +6,7 @@
 
 - ⚡ Fun fact **I love to feed pigeons. They are more than rats with wings**
 
-### Blogs posts
+### 📕 Latest Blogs posts
 <!-- BLOG-POST-LIST:START -->
 - [C#7.0 Pattern matching](https://medium.com/@farid_mzd/c-7-0-pattern-matching-25fbe599bd51?source=rss-5b558ccd6ecb------2)
 <!-- BLOG-POST-LIST:END -->
