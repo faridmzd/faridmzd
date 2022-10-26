@@ -1,10 +1,10 @@
 ![Header](./github-header-image.png)
 
-- 📝 I regularly write articles on [https://medium.com/@farid_mzd](https://medium.com/@farid_mzd)
+- 📝 I regularly write articles on : [https://medium.com/@farid_mzd](https://medium.com/@farid_mzd)
 
-- 📫 How to reach me **faridbusiness@bk.ru**
+- 📫 How to reach me : **farid.mmzd@gmail.com**
 
-- ⚡ Fun fact **I love to feed pigeons. They are more than rats with wings**
+- ⚡ Fun fact : **I love to feed pigeons. They are more than rats with wings**
 
 ### 📕 Latest Blogs Posts
 <!-- BLOG-POST-LIST:START -->
