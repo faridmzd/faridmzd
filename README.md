@@ -1,6 +1,6 @@
 ![Header](./github-header-image.png)
 
-- 📝 I regularly write articles on : [https://medium.com/@farid_mzd](https://medium.com/@farid_mzd)
+- 📝 I regularly write articles on : [https://medium.com/@faridmzd](https://medium.com/@faridmzd)
 
 - 📫 How to reach me : **farid.mmzd@gmail.com**
 
@@ -8,13 +8,13 @@
 
 ### 📕 Latest Blogs Posts
 <!-- BLOG-POST-LIST:START -->
-- [C#7.0 Pattern matching](https://medium.com/@farid_mzd/c-7-0-pattern-matching-25fbe599bd51?source=rss-5b558ccd6ecb------2)
+- [C#7.0 Pattern matching](https://medium.com/@faridmzd/c-7-0-pattern-matching-25fbe599bd51?source=rss-5b558ccd6ecb------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/farid-mammadzada-46a15b229/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/farid-mammadzada-46a15b229/" height="30" width="40" /></a>
-<a href="https://medium.com/@farid_mzd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@farid_mzd" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/faridmzd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/faridmzd" height="30" width="40" /></a>
+<a href="https://medium.com/@faridmzd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@farid_mzd" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
