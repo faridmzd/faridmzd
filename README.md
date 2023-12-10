@@ -26,8 +26,4 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=faridmzd&show_icons=true&count_private=true)  
 
-![GitHub metrics](https://metrics.lecoq.io/faridmzd)  
-
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=faridmzd)  
-
-![Profile views](https://gpvc.arturio.dev/faridmzd)  
